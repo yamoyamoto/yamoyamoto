@@ -1,4 +1,4 @@
-<div> 
+<div style="display:flex"> 
   <img 
     alt="Top Langs" 
     height="150px" 
