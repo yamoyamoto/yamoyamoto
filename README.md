@@ -15,8 +15,6 @@
 
 ### Profile
 I'm a university student.
-My major is physics now, but I'll change it to Information Retrieval in next year.
-
 
 ### Currently learning
 
