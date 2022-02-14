@@ -12,6 +12,6 @@
 
 I'm a university student.
 
-### Currently learning
+### Using Language
 
-Go, TypeScript, and PHP
+Go, TypeScript, Python, and PHP
