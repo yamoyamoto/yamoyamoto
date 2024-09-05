@@ -8,10 +8,3 @@
 
 </div>
 
-### Profile
-
-I'm a university student.
-
-### Using Language
-
-Go, TypeScript, Python, and PHP
